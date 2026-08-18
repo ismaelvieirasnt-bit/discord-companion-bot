@@ -1,0 +1,1 @@
+"""Discord Companion bot package."""
